@@ -1,14 +1,11 @@
 # HR_Analytics_Dashboard
-Performed Data Analysis and developed HR Analytics Dashboard using Power BI project primarily focused on analyzing employee attrition within an organization. The project aims to provide valuable insight to HR professionals, enabling them to make informed decision and implement targeted strategies to reduce attrition.
-## Steps
-* Data Extraction: I received the data from the client in Excel format.
-* Data Transformation: I loaded the data into Power BI and cleaned it by removing any empty or duplicate values, correcting spelling errors, and ensuring the correct data types using Power Query.
-* Data Loading: The transformed data was loaded into Power View for further analysis.
-* Data Modeling: I created a logical structure for the data through data modeling, which allows for effective analysis and visualization.
-* DAX Formulas: I used the Data Analysis Expressions (DAX) language to create calculated measures and columns.
-* Report Building: I built the dashboard by creating user-friendly reports and visualizations that provide intuitive insights.
+Performed Data Analysis and developed HR Analytics Dashboard using Power BI project primarily focused on analyzing employee attrition within an organization. The project aims to provide valuable insight to HR professionals, enabling them to make informed decision and implement targeted strategies to reduce attrition.The fact that the Human Resources department correctly analyzes employee data with evaluation criteria and observes employee performance is a factor that positively affects the success of the company.
+* Overview- total employees, active employees, inactive employees, attrition rate, etc.
+* Demographics- age, gender, seniority, etc.
+* Performance Tracker- job satisfaction, environment satisfaction, etc.
+* Attrition- attrition rate on the basis of  job role. 
 ## Dashboard
-![image](https://github.com/anilsable2298/HR_Analytics_Dashboard/assets/146058365/a8378334-c946-4ef4-a6ad-bd89490c4c6b)
+
 ## Key Insights
 * Most employees who leave the company are between the ages of 26 and 35.
 * The job roles that see the most employees leaving are in the fields of Life Sciences Education and Laboratory Technician.
