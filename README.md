@@ -1,5 +1,5 @@
 # HR_Analytics_Dashboard
-Performed Data Analysis and developed HR Analytics Dashboard using Power BI project primarily focused on analyzing employee attrition within an organization. The project aims to provide valuable insight to HR professionals, enabling them to make informed decision and implement targeted strategies to reduce attrition.The fact that the Human Resources department correctly analyzes employee data with evaluation criteria and observes employee performance is a factor that positively affects the success of the company.
+ HR Analytics Dashboard using Power BI project primarily focused on analyzing employee attrition within an organization. The project aims to provide valuable insight to HR professionals, enabling them to make informed decision and implement targeted strategies to reduce attrition.The fact that the Human Resources department correctly analyzes employee data with evaluation criteria and observes employee performance is a factor that positively affects the success of the company.
 * Overview- total employees, active employees, inactive employees, attrition rate, etc.
 * Demographics- age, gender, seniority, etc.
 * Performance Tracker- job satisfaction, environment satisfaction, etc.
