@@ -5,6 +5,7 @@ Performed Data Analysis and developed HR Analytics Dashboard using Power BI proj
 * Performance Tracker- job satisfaction, environment satisfaction, etc.
 * Attrition- attrition rate on the basis of  job role. 
 ## Dashboard
+![image](https://github.com/anilsable2298/HR_Analytics_Dashboard/assets/146058365/2220c7e6-5936-43b6-89de-e079dca46b1b)
 
 ## Key Insights
 * Most employees who leave the company are between the ages of 26 and 35.
